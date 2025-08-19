@@ -51,7 +51,7 @@ Ready to help? Add a new JSON file with a unique name to the `samples` directory
 | `url`         | Yes      | A direct link to your sample (e.g., GitHub repo, blog post, etc.).        |
 | `readme`      | No       | (Optional) Link to a markdown file with a more detailed explanation.      |
 
-You can contribute more than one sample at a time: list your samples as an array of objects in your JSON file. Each object should follow the structure described above. This lets you group related samples together in a single file, making it easier to manage and submit multiple entries at once.
+You can contribute more than one sample at a time: list your samples as an array of objects in your JSON file. Each object should follow the structure described above. This lets you group samples together in a single file, making it easier to manage and submit multiple entries at once.
 
 **Example:**  
 See [`samples/githubusername.json`](samples/githubusername.json) for a complete example.
