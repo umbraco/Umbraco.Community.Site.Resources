@@ -1,0 +1,14 @@
+[
+    {
+        "title": "Top navigation in Razor",
+        "description": "This sample demonstrates how to build a simple top navigation in your Umbraco template",
+        "url": "https://your-url-here.example",
+        "readme": "https://your-url-here.example/README.md"
+    },
+    {
+        "title": "Another sample",
+        "description": "This is another sample description.",
+        "url": "https://another-url-here.example",
+        "readme": "https://another-url-here.example/README.md"
+    }
+]

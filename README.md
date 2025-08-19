@@ -14,7 +14,7 @@ We're building a new community website, and we want to launch it with a dedicate
 
 ### Why participate?
 
-Many developers say it's tough to find real-world code samples. Official docs have snippets, but practical examples are scattered across blogs, forums, and repositories. By contributing, you'll help centralize great examples—making it easier for everyone to learn and share.
+Many developers say it's tough to find real-world code samples. Official docs have snippets, but practical examples are scattered across blogs, forums, and repositories. By contributing, you'll help centralize great examples, making it easier for everyone to learn and share.
 
 ## How to contribute
 
@@ -26,10 +26,11 @@ We want contributing to be as simple as possible. Instead of submitting your act
     Build your code sample and host it wherever you prefer (GitHub, GitLab, your blog, etc.).
 
 2. **Submit your sample info**  
-    Fork this repository and add a new entry describing your sample, following the [provided template](samples/top-navigation-sample.json).
+    Fork this repository and add a new file describing your sample, following the [provided template](samples/githubusername.json).  
+    The filename should be your GitHub username, with a json extension, so for example: `failureflawless.json`
 
 3. **Open a pull request**  
-    Submit a pull request with your new entry. The DevRel and community teams will review and moderate submissions. If needed, other teams may be asked for input.
+    Submit a pull request with your new file. The DevRel and community teams will review and moderate submissions. If needed, other teams may be asked for input.
 
 4. **Get featured**  
     Once accepted, your sample will be included as part of the searchable resources on the new community site.
@@ -37,20 +38,23 @@ We want contributing to be as simple as possible. Instead of submitting your act
 **Other ways to help:**
 - Suggest new sample ideas by opening an issue in this repository.
 - Already have a relevant sample? Just submit it!
-- All experience levels are welcome—beginner to advanced.
+- All experience levels are welcome, beginner to advanced.
 
 ### The contribution template explained
 
-Ready to help? Add a new JSON file with a unique name to the `samples` directory using the [template](samples/top-navigation-sample.json) as a guide. Each sample entry can include the following fields:
+Ready to help? Add a new JSON file with a unique name to the `samples` directory using the [template](samples/githubusername.json) as a guide. Each sample entry can include the following fields:
 
-| Field         | Required | Description                                                                 |
-|---------------|----------|-----------------------------------------------------------------------------|
-| `title`       | Yes      | The title of your sample.                                                   |
-| `description` | Yes      | A brief summary of what your sample demonstrates or achieves.               |
-| `url`         | Yes      | A direct link to your sample (e.g., GitHub repo, blog post, etc.).          |
-| `readme`      | No       | (Optional) Link to a markdown file with a more detailed explanation.        |
+| Field         | Required | Description                                                               |
+|---------------|----------|---------------------------------------------------------------------------|
+| `title`       | Yes      | The title of your sample.                                                 |
+| `description` | Yes      | A brief summary of what your sample demonstrates or achieves.             |
+| `url`         | Yes      | A direct link to your sample (e.g., GitHub repo, blog post, etc.).        |
+| `readme`      | No       | (Optional) Link to a markdown file with a more detailed explanation.      |
+
+You can contribute more than one sample at a time: list your samples as an array of objects in your JSON file. Each object should follow the structure described above. This lets you group related samples together in a single file, making it easier to manage and submit multiple entries at once.
 
 **Example:**  
-See [`samples/top-navigation-sample.json`](samples/top-navigation-sample.json) for a complete example.
+See [`samples/githubusername.json`](samples/githubusername.json) for a complete example.
 
 This structure is what we'll use when importing your sample resource.
+
