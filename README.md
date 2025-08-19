@@ -26,7 +26,7 @@ We want contributing to be as simple as possible. Instead of submitting your act
     Build your code sample and host it wherever you prefer (GitHub, GitLab, your blog, etc.).
 
 2. **Submit your sample info**  
-    Fork this repository and add a new file describing your sample, following the [instructions below](#the-contribution-template-explained)
+    Fork this repository and add a new file describing your sample, following the [instructions below](#the-contribution-file-structure)
 
 3. **Open a pull request**  
     Submit a pull request with your new file. The DevRel and community teams will review and moderate submissions. If needed, other teams may be asked for input.
@@ -39,11 +39,11 @@ We want contributing to be as simple as possible. Instead of submitting your act
 - Already have a relevant sample? Just submit it!
 - All experience levels are welcome, beginner to advanced.
 
-### The contribution template explained
+### The contribution file structure
 
-Ready to help? Add a new JSON file to the `samples` directory using the [template](samples/githubusername.json) as a guide. The filename should be your GitHub username all in lower case, with a json extension, so for example: `failureflawless.json`.
+Ready to help? Add a new JSON file to the `samples` directory - the filename should be your GitHub username (in lower case) with a json extension, so for example: `failureflawless.json`.
 
-Each sample entry can include the following fields:   
+Then specify each sample you're contributing with the following fields:   
 
 | Field         | Required | Description                                                               |
 |---------------|----------|---------------------------------------------------------------------------|
@@ -52,7 +52,6 @@ Each sample entry can include the following fields:
 | `url`         | Yes      | A direct link to your sample (e.g., GitHub repo, blog post, etc.).        |
 | `readme`      | No       | (Optional) Link to a markdown file with a more detailed explanation.      |
 
-You can contribute more than one sample: list your samples as an array of objects in your JSON file. Each object should follow the structure described above.
 
 **Example:**  
 
@@ -72,3 +71,13 @@ You can contribute more than one sample: list your samples as an array of object
     }
 ]
 ```
+
+If contributing a single sample, you should still use an array otherwise your pull request will fail validation!
+
+### Want to submit more?
+
+Wonderful! Add the details of the new sample(s) to your file and send us another pull request!
+
+### Not sure whether to submit?
+
+If you're not sure whether you should submit your code sample - perhaps you're unsure of the approach, or how useful it will be to others - then please DO submit! We promise our team of moderators are very friendly, and they will help as much as they can to get your sample accepted!
