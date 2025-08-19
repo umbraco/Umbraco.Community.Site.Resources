@@ -1,10 +1,10 @@
-This repository is your go-to place for sharing and discovering community-driven resources that support and enhance the Umbraco Community website.
+This repository is your go-to place for sharing community-driven resources that support and enhance the Umbraco Community website.
 
 ## The Autumn Contribution Challenge
 
 From September through November 2025, we invite you to participate in our Autumn Contribution Challenge!
 
-> _If you're in the southern hemisphere, consider this a spring challenge. Most of us are in Europe, so thanks for your understanding! 😅_
+> _If you're in the Southern Hemisphere, please consider this a Spring challenge. The majority of our contributors are in the Northern Hemisphere so thank you for your understanding, and perhaps this is an opportunity to fix that?! 😅_
 
 ### What's the challenge?
 
@@ -18,7 +18,7 @@ Many developers say it's tough to find real-world code samples. Official docs ha
 
 ## How to contribute
 
-We want contributing to be as simple as possible. Instead of submitting your actual code to this repository, you can host your sample wherever you like (your own repository, blog, etc.), and then submit structured information about your sample here.
+We want contributing to be as simple as possible. Instead of submitting your actual code to this repository, you can host your sample wherever you like (your own repository, gist, blog, etc.), and then submit structured information about your sample here.
 
 **Here's how you can contribute:**
 
@@ -26,8 +26,7 @@ We want contributing to be as simple as possible. Instead of submitting your act
     Build your code sample and host it wherever you prefer (GitHub, GitLab, your blog, etc.).
 
 2. **Submit your sample info**  
-    Fork this repository and add a new file describing your sample, following the [provided template](samples/githubusername.json).  
-    The filename should be your GitHub username, with a json extension, so for example: `failureflawless.json`
+    Fork this repository and add a new file describing your sample, following the [instructions below](#the-contribution-template-explained)
 
 3. **Open a pull request**  
     Submit a pull request with your new file. The DevRel and community teams will review and moderate submissions. If needed, other teams may be asked for input.
@@ -42,7 +41,9 @@ We want contributing to be as simple as possible. Instead of submitting your act
 
 ### The contribution template explained
 
-Ready to help? Add a new JSON file with a unique name to the `samples` directory using the [template](samples/githubusername.json) as a guide. Each sample entry can include the following fields:
+Ready to help? Add a new JSON file to the `samples` directory using the [template](samples/githubusername.json) as a guide. The filename should be your GitHub username all in lower case, with a json extension, so for example: `failureflawless.json`.
+
+Each sample entry can include the following fields:   
 
 | Field         | Required | Description                                                               |
 |---------------|----------|---------------------------------------------------------------------------|
@@ -51,10 +52,23 @@ Ready to help? Add a new JSON file with a unique name to the `samples` directory
 | `url`         | Yes      | A direct link to your sample (e.g., GitHub repo, blog post, etc.).        |
 | `readme`      | No       | (Optional) Link to a markdown file with a more detailed explanation.      |
 
-You can contribute more than one sample at a time: list your samples as an array of objects in your JSON file. Each object should follow the structure described above. This lets you group samples together in a single file, making it easier to manage and submit multiple entries at once.
+You can contribute more than one sample: list your samples as an array of objects in your JSON file. Each object should follow the structure described above.
 
 **Example:**  
-See [`samples/githubusername.json`](samples/githubusername.json) for a complete example.
 
-This structure is what we'll use when importing your sample resource.
-
+```
+[
+    {
+        "title": "Top navigation in Razor",
+        "description": "This sample demonstrates how to build a simple top navigation in your Umbraco template",
+        "url": "https://your-url-here.example",
+        "readme": "https://your-url-here.example/README.md"
+    },
+    {
+        "title": "Another sample",
+        "description": "This is another sample description.",
+        "url": "https://another-url-here.example",
+        "readme": "https://another-url-here.example/README.md"
+    }
+]
+```
