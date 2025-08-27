@@ -4,7 +4,7 @@ This repository is your go-to place for sharing community-driven resources that 
 
 From September through November 2025, we invite you to participate in our Autumn Contribution Challenge!
 
-> _If you're in the Southern Hemisphere, please consider this a Spring challenge. The majority of our contributors are in the Northern Hemisphere so thank you for your understanding, and perhaps this is an opportunity to fix that?! 😅_
+> _If you're in the Southern Hemisphere, please consider this a Spring challenge. The majority of our contributors are in the Northern Hemisphere so thank you for your understanding, and perhaps this is an opportunity to redress the balance?! 😅_
 
 ### What's the challenge?
 
