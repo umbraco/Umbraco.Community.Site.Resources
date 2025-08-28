@@ -1,0 +1,8 @@
+[
+    {
+        "title": "Umbraco OpenID Connect example package",
+        "description": "Umbraco OpenID Connect Example Package is a ready-to-run Umbraco 14+ solution demonstrating how to integrate external login providers using OpenID Connect for members, with a streamlined structure for easy setup and testing. Ideal for developers testing or implementing authentication quickly.",
+        "url": "https://github.com/jbreuer/Umbraco-OpenIdConnect-Example",
+        "readme": "https://www.jeroenbreuer.nl/blog/released-umbraco-openid-connect-example-package-for-umbraco-14/"
+    }
+]
