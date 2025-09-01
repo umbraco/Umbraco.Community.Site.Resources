@@ -1,0 +1,8 @@
+[
+    {
+        "title": "The problem of referenced content in Examine indexing",
+        "description": "A common pattern when extending the Examine index is adding searchable properties from referenced nodes. This blogpost describes how to do so and what can be problematic about doing so.",
+        "url": "https://dev.to/jemayn/the-problem-of-referenced-content-in-examine-indexing-umbraco-11-4355",
+        "readme": "https://dev.to/jemayn/the-problem-of-referenced-content-in-examine-indexing-umbraco-11-4355"
+    }
+]
