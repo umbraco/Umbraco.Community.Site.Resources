@@ -1,0 +1,8 @@
+[
+    {
+        "title": "Create a nextjs frontend for Umbraco",
+        "description": "A detailed guide to implementing a Next.js frontend for Umbraco via the Content Delivery API. Tested with Umbraco v13, and Next.js v14",
+        "url": "https://www.etive-mor.com/blog/a-nextjs-frontend-for-your-umbraco-site/",
+        "readme": "https://github.com/Etive-Mor/Umbraco-NextJs-Demo"
+    }
+]
