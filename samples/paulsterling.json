@@ -1,0 +1,8 @@
+[
+  {
+    "title": "Extend Umbraco Forms with Custom Workflows",
+    "description": "In this example we create a custom workflow that detects and redirects form submissions containing nonsense or gibberish using a specialized classifier, and then apply a second workflow to check for disposable email addresses. Extending workflows can add significant value to Umbraco Forms by integrating custom business logic, enhancing validation, and allowing more tailored responses to form submissions.",
+    "url": "https://skrift.io/issues/use-umbraco-forms-workflows-to-enhance-your-forms-functionality/",
+    "readme": ""
+  }
+]
