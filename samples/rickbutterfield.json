@@ -1,0 +1,13 @@
+[
+  {
+    "title": "Adding 2FA (+ recovery codes) for Umbraco Members",
+    "description": "Implementing two-factor authentication for Umbraco 13 members, including recovery codes support. Extend Umbraco's built-in 2FA functionality with proper recovery code generation and validation.",
+    "url": "https://rickbutterfield.dev/blog/adding-2fa-plus-recovery-codes-for-umbraco-members/",
+    "readme": "https://github.com/rickbutterfield/UmbracoMember2FA/blob/main/README.md"
+  },
+  {
+    "title": "Keeping Sessions Alive in Umbraco with Third-Party Payment Providers",
+    "description": "Integrating with third-party payment providers in Umbraco comes with a few unique challenges, particularly around session persistence. For instance, when users complete a transaction and return to the site, they often find their session data gone.",
+    "url": "https://rickbutterfield.dev/blog/keeping-sessions-alive-in-umbraco-with-third-party-payment-providers/"
+  }
+]
