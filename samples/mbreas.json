@@ -1,0 +1,8 @@
+[
+    {
+        "title": "Umbraco Remote Filesystem implementation example",
+        "description": "Umbraco Remote Filesystem example implementation is a ready-to-run Umbraco solution demonstrating how to integrate external filesystem that allowes you to store your Umbraco media remotely. Ideal for loadbalanced websites",
+        "url": "https://github.com/mbreas/Umbraco-Remote-Storage",
+        "readme": "https://blog.marcelbreas.nl/posts/remote-media-storage-in-umbraco/"
+    }
+]
