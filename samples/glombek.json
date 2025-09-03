@@ -1,0 +1,17 @@
+[
+    {
+        "title": "Modifying the ExternalIndex",
+        "description": "This sample demonstrates how to modify the default ExternalIndex Examine index.",
+        "url": "https://joe.gl/ombek/blog/you-probably-dont-need-a-custom-index/"
+    },
+    {
+        "title": "Exact-matching multiple strings when searching with Examine",
+        "description": "Searching for exact strings in Examine can be a little counter-intuitive. Couple that with the confusion of multiple values (potentially using the Repeatable text strings or tag data types) and inconsistencies between the backoffice tooling and the fluent API and you've got a right potential mess on your hands!",
+        "url": "https://joe.gl/ombek/blog/tag-style-exact-matching-with-examine/"
+    },
+    {
+        "title": "Umbraco AngularJS filter cheat sheet",
+        "description": "In Umbraco v13 and below, the Block editors (list and grid), Nested Content and custom list views allow you to customise how the summarized/collapsed items appear using AngularJS templates and filters - you're not just stuck with the default!",
+        "url": "https://joe.gl/ombek/blog/tag-style-exact-matching-with-examine/"
+    }
+]
