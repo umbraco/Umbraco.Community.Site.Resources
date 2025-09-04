@@ -13,5 +13,10 @@
         "title": "Umbraco AngularJS filter cheat sheet",
         "description": "In Umbraco v13 and below, the Block editors (list and grid), Nested Content and custom list views allow you to customise how the summarized/collapsed items appear using AngularJS templates and filters - you're not just stuck with the default!",
         "url": "https://joe.gl/ombek/blog/tag-style-exact-matching-with-examine/"
+    },
+    {
+        "title": "Migrating Rich Text Editor Macros to Blocks using uSync Migrations",
+        "description": "Modern Umbraco allows Blocks to be added inline in the Rich Text Editor. Umbraco 14 removes support for macros. This code sample will map macros to blocks with the help of uSync Migrations.",
+        "url": "https://joe.gl/ombek/blog/migrating-rte-macros/"
     }
 ]
