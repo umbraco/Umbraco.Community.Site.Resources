@@ -1,0 +1,27 @@
+[
+    {
+        "title": "How to access Composition properties on an IPublishedContent object",
+        "description": "Umbraco's compositions are perfect for creating reusable properties across DocTypes, but how do we access these properties on an IPublishedContent object?",
+        "url": "https://www.owainjones.dev/blog/how-to-access-composition-properties-on-an-ipublishedcontent-object/"
+    },
+    {
+        "title": "Automatically Adding Member Groups to Umbraco Public Access",
+        "description": "How to automatically add/enforce a Member group on nodes that are set to use group-based Public Access restrictions.",
+        "url": "https://www.owainjones.dev/blog/automatically-adding-member-groups-to-umbraco-public-access/"
+    },
+    {
+        "title": "How to customise media url paths",
+        "description": "How to use a custom IMediaPathScheme to change the defaut url route of Media items.",
+        "url": "https://www.owainjones.dev/blog/how-a-custom-imediapathscheme-came-to-the-rescue-for-our-migrated-media/"
+    },
+    {
+        "title": "Adding Custom database tables to your package",
+        "description": "How to add custom database tables to your package, using the PackageMigrationPlan class, npoco and running migrations.",
+        "url": "https://forum.umbraco.com/t/best-practices-on-using-the-migrationbase-namespace/3449/2?u=owainjones.dev"
+    },
+    {
+        "title": "Umbraco 13 - Rich Text Editor - How to set Ignore User Start Nodes option",
+        "description": "The 'ignore user start nodes' option is not available on the default Rich Text Editor data type. Here's how to set it via by creating a new one.",
+        "url": "https://www.youtube.com/watch?v=OYDxYCrTsK8"
+    }
+]
