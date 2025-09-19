@@ -1,0 +1,7 @@
+[
+    {
+        "title": "Seamlessly Allow Segmentation by Extending uSync Imports",
+        "description": "This code was created to automatically enable segmentation support on content types and their properties during uSync imports in Umbraco. Normally, you’d have to manually update countless document types, compositions, and properties to enable segmentation so they can be used with features like Umbraco Engage. By hooking into the uSyncImportingItemNotification, the handler ensures that whenever a content type is imported, its variation settings are corrected: Nothing becomes Segment, and Culture becomes CultureAndSegment, leaving other values untouched. This removes a repetitive manual task, ensures consistency across environments, and gives teams confidence that segmentation is always applied correctly during synchronisation.",
+        "url": "https://gist.github.com/AndyBoot/e0844ae0fe9920195dd6ed75f63f3965"
+    }
+]
