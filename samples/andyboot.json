@@ -3,5 +3,10 @@
         "title": "Seamlessly Allow Segmentation by Extending uSync Imports",
         "description": "This code was created to automatically enable segmentation support on content types and their properties during uSync imports in Umbraco. Normally, you’d have to manually update countless document types, compositions, and properties to enable segmentation so they can be used with features like Umbraco Engage. By hooking into the uSyncImportingItemNotification, the handler ensures that whenever a content type is imported, its variation settings are corrected: Nothing becomes Segment, and Culture becomes CultureAndSegment, leaving other values untouched. This removes a repetitive manual task, ensures consistency across environments, and gives teams confidence that segmentation is always applied correctly during synchronisation.",
         "url": "https://gist.github.com/AndyBoot/e0844ae0fe9920195dd6ed75f63f3965"
+    },
+    {
+        "title": "Strongly Typed Base Views for Umbraco Block List Items",
+        "description": "By default, Umbraco asks you to inherit UmbracoViewPage<BlockListItem> in every block partial, which leaves you pulling Content and Settings out of Model as plain IPublishedElement and manually casting them to your Models Builder types—repetitive, messy, and error-prone. To fix that, you can treat block list items as first-class views with two simple base classes: @inherits UmbracoBlockListItemView<MyContentBlock, MySettingsBlock> when you’ve got both content and settings, or @inherits UmbracoBlockListItemView<MyContentBlock> when it’s just content. With these, your partials stay clean and easy to read, because you can call @Model.Content and @Model.Settings directly as strongly typed objects, with content throwing a clear error if the wrong type sneaks in and settings handled safely as optional. This makes block views feel purpose-built, removes boilerplate casting, and keeps your Razor files focused on rendering rather than plumbing.",
+        "url": "https://gist.github.com/AndyBoot/3c7d32c06bf2916e8e3eb4f03f358c71"
     }
 ]
