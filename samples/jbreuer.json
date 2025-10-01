@@ -4,5 +4,29 @@
         "description": "Umbraco OpenID Connect example implementation is a ready-to-run Umbraco 14+ solution demonstrating how to integrate external login providers using OpenID Connect for members, with a streamlined structure for easy setup and testing. Ideal for developers testing or implementing authentication quickly.",
         "url": "https://github.com/jbreuer/Umbraco-OpenIdConnect-Example",
         "readme": "https://www.jeroenbreuer.nl/blog/released-umbraco-openid-connect-example-package-for-umbraco-14/"
+    },
+    {
+        "title": "Real-Time FAQs: Updating Umbraco with the Management API",
+        "description": "Example of syncing FAQ content between Umbraco and another CMS using the Management API. Changes trigger automatically via webhooks so both systems stay up to date in real time.",
+        "url": "https://gist.github.com/jbreuer/06727609ba65444ecdd7254ca9032668",
+        "readme": "https://www.jeroenbreuer.nl/blog/real-time-faqs-updating-umbraco-with-the-management-api/"
+    },
+    {
+        "title": "Store Sitecore XM Cloud Forms data in Umbraco with the UI Builder",
+        "description": "Shows how to capture Sitecore XM Cloud Form submissions and store them in a custom Umbraco table. Data can then be managed easily through the Umbraco UI Builder interface.",
+        "url": "https://gist.github.com/jbreuer/83f419c259153f5e546dd0d0e32ab5b6",
+        "readme": "https://www.jeroenbreuer.nl/blog/store-sitecore-xm-cloud-forms-data-in-umbraco-with-the-ui-builder/"
+    },
+    {
+        "title": "Umbraco headless member auth with external login providers",
+        "description": "Demonstrates how to secure content via the Umbraco Delivery API using OpenID Connect. Adds external login support for headless member authentication in a federated setup.",
+        "url": "https://github.com/jbreuer/UmbracoDeliveryApiAuthDemo/pull/1",
+        "readme": "https://www.jeroenbreuer.nl/blog/umbraco-headless-member-auth-with-external-login-providers/"
+    },
+    {
+        "title": "Using the Umbraco Content Delivery API with Sitecore XM Cloud Components",
+        "description": "Integrates the Umbraco Content Delivery API with Sitecore XM Cloud to reuse content across platforms. Useful for projects running both CMSs that want to share the same data.",
+        "url": "https://gist.github.com/jbreuer/2c99bc8e691c135354cb145e4915f734",
+        "readme": "https://www.jeroenbreuer.nl/blog/using-the-umbraco-content-delivery-api-with-sitecore-xm-cloud-components/"
     }
 ]
