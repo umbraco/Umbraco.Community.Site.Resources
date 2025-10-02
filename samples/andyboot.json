@@ -13,5 +13,10 @@
         "title": "Deep Dive Into Umbraco String Extension Methods",
         "description": "This post takes a closer look at the string extension methods provided by Umbraco, originally written for version 11. It walks through a wide range of helpers—covering everything from sanitising input, stripping HTML, and truncating text, to detecting JSON, generating safe URL segments, and working with file extensions. While the article was written with Umbraco 11 in mind, most of these methods (or their equivalents) remain just as useful in later versions, making it a handy reference for anyone working with text in Umbraco today.",
         "url": "https://dev.to/andy_boot/deep-dive-into-umbraco-string-extension-methods-4ee2"
+    },
+    {
+        "title": "Umbraco Forms - Add additional attributes to existing field types",
+        "description": "This blog walks through how to extend existing Umbraco Forms field types by adding new custom attributes. For example, the author shows how you can inherit from the default Textfield, add a “Span all columns?” setting, and then use that in the form view to control layout (e.g. span across two columns via CSS). It’s a great guide if you ever need to tweak or customise the built-in form fields beyond their default options.",
+        "url": "https://dev.to/andy_boot/umbraco-forms-add-additional-attributes-to-existing-field-types-4abg"
     }
 ]
