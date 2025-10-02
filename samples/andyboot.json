@@ -18,5 +18,10 @@
         "title": "Umbraco Forms - Add additional attributes to existing field types",
         "description": "This blog walks through how to extend existing Umbraco Forms field types by adding new custom attributes. For example, the author shows how you can inherit from the default Textfield, add a “Span all columns?” setting, and then use that in the form view to control layout (e.g. span across two columns via CSS). It’s a great guide if you ever need to tweak or customise the built-in form fields beyond their default options.",
         "url": "https://dev.to/andy_boot/umbraco-forms-add-additional-attributes-to-existing-field-types-4abg"
+    },
+    {
+        "title": "Debug HTTP Requests within Visual Studio",
+        "description": "This gist shows how to set up and debug HTTP requests (e.g. APIs) directly inside Visual Studio, making it easier to test endpoints without switching to external tools. It includes sample api.http scripts (for things like POSTing JSON payloads) and guidance on configuring your debugging environment. A handy reference if you frequently work with backend APIs and want streamlined in-IDE testing capabilities.",
+        "url": "https://gist.github.com/AndyBoot/99014e5ade0346a2c6bb853074f93bb1"
     }
 ]
