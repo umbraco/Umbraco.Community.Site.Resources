@@ -23,5 +23,10 @@
         "title": "Debug HTTP Requests within Visual Studio",
         "description": "This gist shows how to set up and debug HTTP requests (e.g. APIs) directly inside Visual Studio, making it easier to test endpoints without switching to external tools. It includes sample api.http scripts (for things like POSTing JSON payloads) and guidance on configuring your debugging environment. A handy reference if you frequently work with backend APIs and want streamlined in-IDE testing capabilities.",
         "url": "https://gist.github.com/AndyBoot/99014e5ade0346a2c6bb853074f93bb1"
+    },
+    {
+        "title": "How to Upgrade from Umbraco 8 to 13 LTS",
+        "description": "A walkthough the full migration journey—from a legacy .NET Framework setup in Umbraco 8 to a modern .NET 8 + Umbraco 13 architecture. It outlines why lingering on Umbraco 8 is risky (no security patches, falling behind on features), and then maps the upgrade path: first migrating to Umbraco 10, then onward to 13. Along the way it highlights key changes (e.g. switching from System.Web to ASP.NET Core, moving from Surface Controllers to View Components, adopting DI patterns, reworking old editor data with uSync migrations, etc.). The author also shares practical tips—like using Git worktrees to manage multiple codebases, and handling Umbraco Forms version jumps—to ease the process.",
+        "url": "https://www.pixelbuilders.com/blog/upgrading-your-website-from-umbraco-8-to-umbraco-13-lts-a-comprehensive-guide/"
     }
 ]
