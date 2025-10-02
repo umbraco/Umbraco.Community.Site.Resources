@@ -8,5 +8,10 @@
         "title": "Strongly Typed Base Views for Umbraco Block List Items",
         "description": "By default, Umbraco asks you to inherit UmbracoViewPage<BlockListItem> in every block partial, which leaves you pulling Content and Settings out of Model as plain IPublishedElement and manually casting them to your Models Builder types—repetitive, messy, and error-prone. To fix that, you can treat block list items as first-class views with two simple base classes: @inherits UmbracoBlockListItemView<MyContentBlock, MySettingsBlock> when you’ve got both content and settings, or @inherits UmbracoBlockListItemView<MyContentBlock> when it’s just content. With these, your partials stay clean and easy to read, because you can call @Model.Content and @Model.Settings directly as strongly typed objects, with content throwing a clear error if the wrong type sneaks in and settings handled safely as optional. This makes block views feel purpose-built, removes boilerplate casting, and keeps your Razor files focused on rendering rather than plumbing.",
         "url": "https://gist.github.com/AndyBoot/3c7d32c06bf2916e8e3eb4f03f358c71"
+    },
+    {
+        "title": "Deep Dive Into Umbraco String Extension Methods",
+        "description": "This post takes a closer look at the string extension methods provided by Umbraco, originally written for version 11. It walks through a wide range of helpers—covering everything from sanitising input, stripping HTML, and truncating text, to detecting JSON, generating safe URL segments, and working with file extensions. While the article was written with Umbraco 11 in mind, most of these methods (or their equivalents) remain just as useful in later versions, making it a handy reference for anyone working with text in Umbraco today.",
+        "url": "https://dev.to/andy_boot/deep-dive-into-umbraco-string-extension-methods-4ee2"
     }
 ]
