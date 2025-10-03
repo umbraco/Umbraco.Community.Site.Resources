@@ -1,0 +1,137 @@
+[
+  {
+    "title": "Protecting content with Umbraco Delivery API",
+    "url": "https://kjac.dev/posts/protecting-content-with-umbraco-delivery-api/",
+    "description": "A demo of handling protected content and member auth in the Umbraco Delivery API. Features a working sample project."
+  },
+  {
+    "title": "The No-Code Delivery API package",
+    "url": "https://kjac.dev/posts/no-code-delivery-api/",
+    "description": "Introducing the new No-Code Delivery API package for Umbraco."
+  },
+  {
+    "title": "The No-Code Headless Mode package",
+    "url": "https://kjac.dev/posts/no-code-headless-mode/",
+    "description": "Introducing the new No-Code Headless Mode package for Umbraco."
+  },
+  {
+    "title": "Jamstack for free with Azure and Cloudflare",
+    "url": "https://kjac.dev/posts/jamstack-for-free-with-azure-and-cloudflare/",
+    "description": "Building a Jamstack site and hosting it for free with Azure and Cloudflare. Built with Astro using the Umbraco Delivery API as data source."
+  },
+  {
+    "title": "Quick n' dirty blog with Astro and Umbraco",
+    "url": "https://kjac.dev/posts/quick-n-dirty-blog-with-astro-and-umbraco/",
+    "description": "Setting up an Astro blog using Umbraco as a Headless CMS, Quick and dirty and to the point. Expect cut corners and lack of perfection."
+  },
+  {
+    "title": "Content editor preview for static websites",
+    "url": "https://kjac.dev/posts/content-editor-preview-for-static-websites/",
+    "description": "How to enable content editor preview when building static sites, featuring Umbraco and Astro."
+  },
+  {
+    "title": "Umbraco to Relewise with Workers",
+    "url": "https://kjac.dev/posts/umbraco-to-relewise-with-workers/",
+    "description": "Pushing product data from Umbraco Commerce to Relewise, using Cloudflare Workers as the integration layer."
+  },
+  {
+    "title": "Routable custom data in the Delivery API",
+    "url": "https://kjac.dev/posts/routable-custom-data-in-the-delivery-api/",
+    "description": "Routing custom data entities through the the Umbraco Delivery API."
+  },
+  {
+    "title": "A tip, a trick and a hack for the Delivery API",
+    "url": "https://kjac.dev/posts/delivery-api-tip-trick-and-hack/",
+    "description": "Three less known ways of tailoring and extending the Delivery API."
+  },
+  {
+    "title": "Lunr.js search powered by Umbraco",
+    "url": "https://kjac.dev/posts/lunrjs-search-powered-by-umbraco/",
+    "description": "A guide to setting up Lunr.js search with data from the Umbraco Delivery API."
+  },
+  {
+    "title": "The Delivery API is not only for headless!",
+    "url": "https://kjac.dev/posts/the-delivery-api-is-not-only-for-headless/",
+    "description": "The Umbraco Delivery API is not exclusively meant to be used with headless builds - it can do so much more."
+  },
+  {
+    "title": "Building a search service from scratch",
+    "url": "https://kjac.dev/posts/building-a-search-service-from-scratch/",
+    "description": "An experimental Node.js search service built with MiniSearch and powered by Umbraco."
+  },
+  {
+    "title": "The Next.js example for Umbraco is live!",
+    "url": "https://kjac.dev/posts/nextjs-umbraco-example-is-live/",
+    "description": "A quick run-down of the official Next.js example site for Umbraco."
+  },
+  {
+    "title": "Hello, Umbraco Management API",
+    "url": "https://kjac.dev/posts/hello-umbraco-management-api/",
+    "description": "Building an integration with the Umbraco Management API in Node.js using Client Credentials authentication."
+  },
+  {
+    "title": "Crafting an SPA with Umbraco",
+    "url": "https://kjac.dev/posts/crafting-an-spa-with-umbraco/",
+    "description": "A quick tutorial on how a SPA can be built using Umbraco and the Delivery API"
+  },
+  {
+    "title": "So you want to cache all the things?",
+    "url": "https://kjac.dev/posts/so-you-want-to-cache-all-the-things/",
+    "description": "An introduction to caching in Umbraco 15 and how to cache all the things without impacting the site boot time."
+  },
+  {
+    "title": "Management API + NSwag = win",
+    "url": "https://kjac.dev/posts/management-api-plus-nswag-equals-win/",
+    "description": "Consuming the Umbraco Management API with an NSwag client to recreate the Clean Starter Kit from scratch."
+  },
+  {
+    "title": "Rebuilding a package for Umbraco 15",
+    "url": "https://kjac.dev/posts/rebuilding-a-package-for-umbraco-15/",
+    "description": "Lessons learned while porting the No-Code Delivery API package to Umbraco 15."
+  },
+  {
+    "title": "Headless Preview for Umbraco",
+    "url": "https://kjac.dev/posts/headless-preview-for-umbraco/",
+    "description": "Introducing the Headless Preview package for Umbraco"
+  },
+  {
+    "title": "Using UMB_UCONTEXT with Umbraco 14+",
+    "url": "https://kjac.dev/posts/using-umb_ucontext-with-umbraco-14-plus/",
+    "description": "How to authenticate Umbraco backoffice users outside the scope of the backoffice itself, without relying the UMB_UCONTEXT cookie"
+  },
+  {
+    "title": "Uncovering the Next.js example for Umbraco",
+    "url": "https://kjac.dev/posts/uncovering-the-nextjs-example-for-umbraco/",
+    "description": "Extending the official Next.js example site for Umbraco with additional functionality."
+  },
+  {
+    "title": "Umbraco 16 brings back segments",
+    "url": "https://kjac.dev/posts/umbraco-16-brings-back-segments/",
+    "description": "Segments return to Umbraco with Umbraco 16. Here's a quick tutorial on how to enable them."
+  },
+  {
+    "title": "Tailoring member content with segments",
+    "url": "https://kjac.dev/posts/tailoring-member-content-with-segments/",
+    "description": "Segments return to Umbraco with Umbraco 16. Here's a quick tutorial on how to enable them."
+  },
+  {
+    "title": "Customizing fallback for Umbraco",
+    "url": "https://kjac.dev/posts/customizing-fallback-for-property-values/",
+    "description": "Building a custom solution to handle property value fallback, both for templated rendering and for the Delivery API."
+  },
+  {
+    "title": "Trying out the new Umbraco Search",
+    "url": "https://kjac.dev/posts/trying-out-the-new-umbraco-search/",
+    "description": "Creating a demo site to try out the new Umbraco Search."
+  },
+  {
+    "title": "Tailored indexing for Umbraco Search",
+    "url": "https://kjac.dev/posts/tailored-indexing-for-umbraco-search/",
+    "description": "Exploring extension points for tailored content indexing in Umbraco Search."
+  },
+  {
+    "title": "Migrating extensions from Umbraco 13 to 17",
+    "url": "https://kjac.dev/posts/migrating-extensions-from-umbraco-13-to-17/",
+    "description": "Porting a custom property editor from Umbraco 13 to Umbraco 17."
+  }
+]
