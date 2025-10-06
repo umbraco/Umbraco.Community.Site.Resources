@@ -2,6 +2,7 @@
     {
         "title": "Add custom condition to an existing backoffice extension",
         "description": "This sample demonstrates how to add a custom condition to an existing backoffice extension in Umbraco.",
-        "url": "https://github.com/Luuk1983/UmbracoExamples/blob/main/ConditionsToExistingExtensions/README.md"
+        "url": "https://github.com/Luuk1983/UmbracoExamples/blob/main/ConditionsToExistingExtensions",
+        "readme": "https://github.com/Luuk1983/UmbracoExamples/blob/main/ConditionsToExistingExtensions/README.md"
     }
 ]
