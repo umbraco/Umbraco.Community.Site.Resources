@@ -3,5 +3,10 @@
     "title": "Umbraco Tips for Newcomers: Insights from an Outsider",
     "description": "Practical advice and reflections from a Kentico MVP joining the Umbraco community — covering the different Umbraco products, training, back office extensibility, content modelling, and community events.",
     "url": "https://24days.in/umbraco-cms/2024/outsider-insights/"
+  },  
+  {
+    "title": "Taking Stripe Payments in Umbraco Commerce",
+    "description": "Step-by-step guide to adding Stripe to the Umbraco Commerce Demo Store (Umbraco 16, .NET 9) with screenshots, commands, and notes on webhooks and going live.",
+    "url": "https://www.goldfinch.me/blog/taking-stripe-payments-in-umbraco-commerce"
   }
 ]
