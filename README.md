@@ -82,7 +82,7 @@ Wonderful! Add the details of the new sample(s) to your file and send us another
 
 If you're not sure whether you should submit your code sample - perhaps you're unsure of the approach, or how useful it will be to others - then please DO submit! We promise our team of moderators are very friendly, and they will help as much as they can to get your sample accepted!
 
-Please note that only blog posts that are explain how to do something should be submitted. There will be a space in the community site for all blog posts. Currently we're just trying to collect together those that have code samples and walkthroughs for developers to follow.
+Although please note that only blog posts that explain *how to do something* should be submitted. There will be a space in the community site for all blog posts. Currently we're just trying to collect together those that have code samples and walkthroughs for developers to follow.
 
 ### Submitted samples to date
 
