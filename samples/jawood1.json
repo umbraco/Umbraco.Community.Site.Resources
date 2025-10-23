@@ -1,0 +1,12 @@
+[
+  {
+    "title": "Umbraco Mock Helper for Unit Testing",
+    "description": "A helper class for creating mocked Umbraco objects for unit testing. Includes methods for mocking IPublishedContent, IPublishedElement, BlockList/BlockGrid items, MediaWithCrops, UmbracoHelper, and URL providers using Moq.",
+    "url": "https://gist.github.com/jawood1/95a689a7fb0a086e8f3ed1257ba3db53"
+  },
+  {
+    "title": "Umbraco Controller Testing Base Class",
+    "description": "Base class for testing Umbraco-based controllers with ASP.NET Core. Provides a method to create mocked IFeatureCollection with UmbracoRouteValues, allowing access to CurrentPage in controller tests. Includes proper setup for HTTP request/response features.",
+    "url": "https://gist.github.com/jawood1/87fc894a8cc86c9946454c8b5caeef16"
+  }
+]
