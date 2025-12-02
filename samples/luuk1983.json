@@ -1,0 +1,13 @@
+[
+    {
+        "title": "Add custom condition to an existing backoffice extension",
+        "description": "This sample demonstrates how to add a custom condition to an existing backoffice extension in Umbraco.",
+        "url": "https://github.com/Luuk1983/UmbracoExamples/blob/main/ConditionsToExistingExtensions",
+        "readme": "https://github.com/Luuk1983/UmbracoExamples/blob/main/ConditionsToExistingExtensions/README.md"
+    },
+        {
+        "title": "How to Sync NuGet and Umbraco Package versions automatically in Umbraco 14+",
+        "description": "Automatically sync your umbraco-package.json version with your NuGet package version in Umbraco 14+.",
+        "url": "https://dev.to/luukpeters/how-to-sync-nuget-and-umbraco-package-versions-automatically-in-umbraco-14-8i3"
+    }
+]

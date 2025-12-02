@@ -2,9 +2,10 @@ This repository is your go-to place for sharing community-driven resources that 
 
 ## The Autumn Contribution Challenge
 
-From September through November 2025, we invite you to participate in our Autumn Contribution Challenge!
+From September through ~~November 2025~~ **31st of December 2025 (the end date is extended to the end of the year)**, we invite you to participate in our Autumn Contribution Challenge!
 
 > _If you're in the Southern Hemisphere, please consider this a Spring challenge. The majority of our contributors are in the Northern Hemisphere so thank you for your understanding, and perhaps this is an opportunity to redress the balance?! 😅_
+
 
 ### What's the challenge?
 
@@ -81,3 +82,9 @@ Wonderful! Add the details of the new sample(s) to your file and send us another
 ### Not sure whether to submit?
 
 If you're not sure whether you should submit your code sample - perhaps you're unsure of the approach, or how useful it will be to others - then please DO submit! We promise our team of moderators are very friendly, and they will help as much as they can to get your sample accepted!
+
+Although please note that only blog posts that explain *how to do something* should be submitted. There will be a space in the community site for all blog posts. Currently we're just trying to collect together those that have code samples and walkthroughs for developers to follow.
+
+### Submitted samples
+
+Check out the [list of submitted samples](submitted-samples.md).

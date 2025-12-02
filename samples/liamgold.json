@@ -1,0 +1,7 @@
+[ 
+  {
+    "title": "Taking Stripe Payments in Umbraco Commerce",
+    "description": "Step-by-step guide to adding Stripe to the Umbraco Commerce Demo Store (Umbraco 16, .NET 9) with screenshots, commands, and notes on webhooks and going live.",
+    "url": "https://www.goldfinch.me/blog/taking-stripe-payments-in-umbraco-commerce"
+  }
+]
