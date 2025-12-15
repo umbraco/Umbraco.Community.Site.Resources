@@ -23,8 +23,8 @@ foreach ($file in $jsonFiles) {
     $username = $file.BaseName
 
     try {
-        # Read and parse JSON
-        $jsonContent = Get-Content $file.FullName -Raw | ConvertFrom-Json
+        # Read and parse JSON (wrap in @() to ensure single-item arrays stay as arrays)
+        $jsonContent = @(Get-Content $file.FullName -Raw | ConvertFrom-Json)
 
         # Validate it's an array
         if ($jsonContent -isnot [System.Array]) {
