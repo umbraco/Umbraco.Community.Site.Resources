@@ -1,0 +1,12 @@
+[
+    {
+        "title": "Umbraco 17 - Custom Backoffice Extensions",
+        "description": "How to set up the project, create a custom dashboard, and run your extension",
+        "url": "https://www.byte5.net/blog/backoffice-extensions-for-umbraco-17"
+    },
+    {
+        "title": "Umbraco 17 - Filling your Backoffice Extension with logic",
+        "description": "Creating a custom workspace view, adding a menu item to an existing menu and filling your extension with some logic using umbraco repositories.",
+        "url": "https://www.byte5.net/blog/filling-your-umbraco-17-backoffice-extension-with-logic"
+    }
+]
