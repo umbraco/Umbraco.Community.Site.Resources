@@ -1,0 +1,72 @@
+[
+    {
+        "title": "Umbraco Block Thumbnail Generator",
+        "description": "A too for generating beutiful thumbnails for Umbraco blocks easily",
+        "url": "https://skttl.github.io/umbraco-block-thumbnail-generator/"
+    },
+    {
+        "title": "Umbraco Icons Gallery",
+        "description": "A searchable gallery of Umbraco icons with copy-to-clipboard functionality.",
+        "url": "https://skttl.github.io/umbraco-icons-gallery/"
+    },
+    {
+        "title": "Migrate Vendr database to Umbraco Commerce",
+        "description": "This migration runs all the necessary database changes mentioned in step 3, of Migrate from Vendr to Umbraco Commerce. It runs the migration before Umbraco Commerce gets installed, so it should get all your data in the right place."
+        "url": "https://gist.github.com/skttl/2919433f3ff78f820c262c5c6a683667"
+    },
+    {
+        "title": "URL helper extension methods for generating Surface Controller URLs",
+        "description": "Friendly helper extension methods for generating URLs for Surface Controller endpoints."
+        "url": "https://gist.github.com/skttl/c77cbc26828493f6a6b56b4ef6d8c578"
+    },
+    {
+        "title": "Umbraco Enabled View Component Base Class",
+        "description": "A base class for view components with an Umbraco context"
+        "url": "https://gist.github.com/skttl/fd1478975cc642071902eaa5c3dc4f98"
+    },
+    {
+        "title": "Get object-position (CSS) from Focal Point in Umbraco",
+        "description": "An extension method for IPublishedContent presenting the focal point of an image as the CSS object-position property."
+        "url": "https://gist.github.com/skttl/f9a4c76463c54b859d5ebff155a6f614"
+    },
+    {
+        "title": "Marketplace Package Sync bookmarklet",
+        "description": "Tired of waiting for the automatic daily indexing, before your package shows up on the marketplace? Use this bookmarklet."
+        "url": "https://dev.to/skttl/umbraco-marketplace-package-sync-bookmarklet-3oe3"
+    },
+    {
+        "title": "Using MJML for HTML emails with Umbraco Forms",
+        "description": "HTML emails are notoriously difficult to style due to inconsistent rendering across email clients. Fortunately, MJML provides a modern solution that simplifies email creation while ensuring compatibility."
+        "url": "https://dev.to/skttl/easier-responsive-emails-for-umbraco-forms-with-mjml-3hk0"
+    },
+    {
+        "title": "Enhancing 404 Pages with Search in Umbraco",
+        "description": "Help your users find what they are looking for, when they hit a 404 Page Not Found"
+        "url": "https://dev.to/skttl/enhancing-404-pages-with-search-in-umbraco-1jad"
+    },
+    {
+        "title": "How to Deploy Your Branches to Umbraco Cloud Without Triggering Site Deployment",
+        "description": "Tired of Umbraco Cloud performing a deploy to nowhere, when you push branches other than main?"
+        "url": "https://dev.to/skttl/how-to-deploy-your-branches-to-umbraco-cloud-without-triggering-site-deployment-503o"
+    },
+    {
+        "title": "Quick fix for IPublishedSnapshotAccessor issues when upgrading from Umbraco 13",
+        "description": "If you are using Umbraco ModelsBuilder in one of the SourceCode modes like me, chances are that you'll run into problems when upgrading from Umbraco 13."
+        "url": "https://dev.to/skttl/quick-fix-for-ipublishedsnapshotaccessor-issues-when-upgrading-to-umbraco-15-4pa4"
+    },
+    {
+        "title": "Server-side registering of backoffice extensions",
+        "description": "How to register backoffice extensions from C# using IManifestReader"
+        "url": "https://dev.to/skttl/server-side-registering-of-package-manifest-in-umbraco-14-49go"
+    },
+    {
+        "title": "Creating Duplicate Content in Umbraco without Duplicating Content",
+        "description": "This article shows how to reuse a single piece of content in multiple places in Umbraco without duplicating it, using internal routing and canonical links to stay SEO-friendly."
+        "url": "https://dev.to/skttl/creating-duplicate-content-in-umbraco-without-duplicating-content-5dl5"
+    },
+    {
+        "title": "Simple redirect engine from the Umbraco content tree",
+        "description": "This article demonstrates how to build a simple redirect page in Umbraco using the content tree, allowing editors to manage redirects as part of site navigation."
+        "url": "https://dev.to/skttl/creating-duplicate-content-in-umbraco-without-duplicating-content-5dl5"
+    }
+]
