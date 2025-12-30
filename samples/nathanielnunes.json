@@ -1,0 +1,27 @@
+[
+  {
+    "title": "Altering Custom Table Columns in Umbraco Migrations",
+    "description": "The article explains how to alter custom table columns in Umbraco migrations, specifically when increasing the size of an NVARCHAR column to NVARCHAR(MAX).",
+    "url": "https://www.nathanielnunes.com/blog/altering-custom-table-columns-in-umbraco-migrations"
+  },
+  {
+    "title": "Find Ancestors of Item Using the Umbraco Content Delivery API",
+    "description": "This article explains how to use the Umbraco Content Delivery API to fetch the ancestors of a node, useful for building breadcrumb navigation in headless Umbraco setups.",
+    "url": "https://www.nathanielnunes.com/blog/find-ancestors-of-item-using-the-umbraco-content-delivery-api"
+  },
+  {
+    "title": "Importing Block List Items Programmatically in Umbraco 17",
+    "description": "A practical, problem-solving guide on how to import Block List items programmatically in Umbraco 17 instead of manually creating them in the backoffice.",
+    "url": "https://24days.in/umbraco-cms/2025/importing-blocklist-items/"
+  },
+  {
+    "title": "Contributing to Umbraco CMS by fixing a bug",
+    "description": "Explore the rewarding experience of contributing to Umbraco CMS by identifying and fixing bugs.",
+    "url": "https://www.nathanielnunes.com/blog/contributing-to-umbraco-cms-by-fixing-a-bug"
+  },
+  {
+    "title": "Adding Custom Request Headers to Umbraco Forms Workflow",
+    "description": "Learn how we can customize an Umbraco Forms Workflow to send in HTTP Request Headers.",
+    "url": "https://www.nathanielnunes.com/blog/adding-custom-request-headers-to-umbraco-forms-workflow"
+  }
+]
