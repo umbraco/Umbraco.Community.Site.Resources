@@ -1,0 +1,13 @@
+[
+    {
+        "title": "Using Razor Class Libraries (RCL) to Build Shared UI in Umbraco Projects",
+        "description": "This article explains how Razor Class Libraries (RCL) can be used in Umbraco projects to build reusable and maintainable UI components. It focuses on how views inside an RCL can work with custom presentation models instead of Umbraco-specific models, why this approach is recommended, and how it fits into real-world Umbraco project architectures. The goal is to keep shared UI clean, predictable, and easy to evolve across multiple Umbraco websites."
+        "url": "https://medium.com/@dev.mjdhanesh/using-razor-class-libraries-rcl-to-build-shared-ui-in-umbraco-projects-71513dd725d0"
+    },
+    {
+    "title": "Extending Umbraco Models Safely with Partial Classes",
+    "description": "This article explains how partial classes in Umbraco allow developers to safely extend Models Builder content models. It covers why direct modification of generated models is risky, how to add computed properties and helpers through partial classes, and why this approach ensures maintainable, upgrade-friendly, and team-safe code in modern Umbraco projects.",
+    "url": "https://medium.com/@dev.mjdhanesh/extending-umbraco-models-safely-with-partial-classes-c67d9b2ecc71"
+    }
+
+]
